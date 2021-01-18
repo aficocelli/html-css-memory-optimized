@@ -1,0 +1,17 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #ADD8E6;
+}
+/* formattazione titolo principale */
+.titolo-principale{
+  text-align: center;
+  font-size: 80px;
+  text-transform: uppercase;
+  font-family: 'Nerko One', cursive;
+  color: #fff;
+}
