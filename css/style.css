@@ -65,3 +65,11 @@ body{
 {
   visibility: visible;
 }
+
+.credit{
+  color:#000;
+  font-weight: bold;
+  font-family: 'Nerko One', cursive;
+  text-align: center;
+  margin: 20px 0;
+}
