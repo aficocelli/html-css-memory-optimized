@@ -57,9 +57,11 @@ body{
   visibility: hidden;
 }
 
-.carta:hover{
+.carta:hover, #carta-aperta{
   background-image: none;
 }
-.carta:hover img, .carta:hover .nome-carta{
+.carta:hover img, .carta:hover .nome-carta,
+#carta-aperta img, #carta-aperta .nome-carta
+{
   visibility: visible;
 }
